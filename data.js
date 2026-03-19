@@ -50,13 +50,13 @@ export const reviews = [
 ];
 
 export const galleryImages = [
-    { url: '../images/unnamed6.jpg', span: 'col-span-1 row-span-1' },
-    { url: '../images/unnamed.jpg', span: 'col-span-2 row-span-1' },
-    { url: '../images/unnamed2.jpg', span: 'col-span-1 row-span-1' },
-    { url: '../images/unnamed8.jpg', span: 'col-span-1 row-span-1' },
-    { url: '../images/unnamed9.jpg', span: 'col-span-1 row-span-1' },
-    { url: '../images/unnamed7.jpg', span: 'col-span-1 row-span-1' },
-    { url: '../images/unnamed3.jpg', span: 'col-span-1 row-span-1' },
-    { url: '../images/unnamed4.jpg', span: 'col-span-1 row-span-1' },
-    { url: '../images/unnamed5.jpg', span: 'col-span-1 row-span-1' }
+    { url: './images/unnamed6.jpg', span: 'col-span-1 row-span-1' },
+    { url: './images/unnamed.jpg', span: 'col-span-2 row-span-1' },
+    { url: './images/unnamed2.jpg', span: 'col-span-1 row-span-1' },
+    { url: './images/unnamed8.jpg', span: 'col-span-1 row-span-1' },
+    { url: './images/unnamed9.jpg', span: 'col-span-1 row-span-1' },
+    { url: './images/unnamed7.jpg', span: 'col-span-1 row-span-1' },
+    { url: './images/unnamed3.jpg', span: 'col-span-1 row-span-1' },
+    { url: './images/unnamed4.jpg', span: 'col-span-1 row-span-1' },
+    { url: './images/unnamed5.jpg', span: 'col-span-1 row-span-1' }
 ];
