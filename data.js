@@ -57,6 +57,5 @@ export const galleryImages = [
     { url: '/unnamed9.jpg', span: 'col-span-1 row-span-1' },
     { url: '/unnamed7.jpg', span: 'col-span-1 row-span-1' },
     { url: '/unnamed3.jpg', span: 'col-span-1 row-span-1' },
-    { url: '/unnamed4.jpg', span: 'col-span-1 row-span-1' },
-    { url: '/unnamed5.jpg', span: 'col-span-1 row-span-1' }
+    { url: '/unnamed4.jpg', span: 'col-span-1 row-span-1' }
 ];
