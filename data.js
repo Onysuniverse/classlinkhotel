@@ -51,7 +51,7 @@ export const reviews = [
 
 export const galleryImages = [
     { url: '/unnamed6.jpg', span: 'col-span-1 row-span-1' },
-    { url: '/unnamed.jpg', span: 'col-span-2 row-span-1' },
+    { url: '/unnamed.jpg', span: 'col-span-1 row-span-1' },
     { url: '/unnamed2.jpg', span: 'col-span-1 row-span-1' },
     { url: '/unnamed8.jpg', span: 'col-span-1 row-span-1' },
     { url: '/unnamed9.jpg', span: 'col-span-1 row-span-1' },
